@@ -1,6 +1,6 @@
 #include "arp.hpp"
 
-#include "arduino_secret.h"
+#include "arduino_secret.hpp"
 
 char ssid[] = WIFI_SSID;
 char pass[] = WIFI_PASSWORD;
